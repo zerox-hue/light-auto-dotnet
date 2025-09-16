@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/zeroxnet9/Documents/Auto_dotnet/Auto_dotnet.csproj": {}
+  },
+  "projects": {
+    "/home/zeroxnet9/Documents/Auto_dotnet/Auto_dotnet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/zeroxnet9/Documents/Auto_dotnet/Auto_dotnet.csproj",
+        "projectName": "Auto_dotnet",
+        "projectPath": "/home/zeroxnet9/Documents/Auto_dotnet/Auto_dotnet.csproj",
+        "packagesPath": "/home/zeroxnet9/.nuget/packages/",
+        "outputPath": "/home/zeroxnet9/Documents/Auto_dotnet/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/zeroxnet9/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.414/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
